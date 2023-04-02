@@ -1,9 +1,8 @@
 ## Ladan Torkzaban _ Junior Full Stack Software Developer
 
-- I'm a full stack developer who has trained with Makers Academy developing my engineering skills.
-- After being a full time mum for few years ,I have decided to refresh my knowledge and memory from what I have studied in university. I joined the Makers academy and achieved an incredible experience in 16 weeks on full stack programming  and testing . I'm skilled in communication and pair programming.I love to challenge myself with learning new skills to keep my brain motivated.
-
-- I have a strong desire to learn code, I love breaking down a project into little piece then used them to build something new out of it,during my coding journey I had this satisfaction as an individual and in a team project. The ability to work in an environment that could build a better future is something I greatly look forward to.
+I'm a full stack developer who has trained with Makers Academy developing my engineering skills.
+After being a full time mum for few years ,I have decided to refresh my knowledge and memory from what I have studied in university. I joined the Makers academy and achieved an incredible experience in 16 weeks on full stack programming  and testing . I'm skilled in communication and pair programming.I love to challenge myself with learning new skills to keep my brain motivated.
+I have a strong desire to learn code, I love breaking down a project into little piece then used them to build something new out of it,during my coding journey I had this satisfaction as an individual and in a team project. The ability to work in an environment that could build a better future is something I greatly look forward to.
 
 ## Projects
 
