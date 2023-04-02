@@ -44,10 +44,8 @@ skills to enhance my future projects.
 
 
 #### UWS Glasgow (2012 to 2018)
-- BSc Computer Networking
-
-#### Stow college Glasgow (2008 to 2010)
-- HND software developer
+- BSc Network Communication
+- Key modules - Object Oriented Programming, Web server side programming, Mobile development
 
 ## Hobbies 
 
