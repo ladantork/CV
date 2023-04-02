@@ -1,8 +1,15 @@
 ## Ladan Torkzaban _ Junior Full Stack Software Developer
 
+<<<<<<< HEAD
 I'm a full stack developer who has trained with Makers Academy developing my engineering skills.
 
 After being a full time mum for few years ,I have decided to refresh my knowledge and memory from what I have studied in university. I joined the Makers academy and achieved an incredible experience in 16 weeks on full stack programming  and testing . I'm skilled in communication and pair programming.I love to challenge myself with learning new skills to keep my brain motivated.
+=======
+- I'm a full stack developer who has trained with Makers Academy developing my engineering skills.
+- After being a full time mum for few years ,I have decided to refresh my knowledge and memory from what I have studied in university. I joined the Makers academy and achieved an incredible experience in 16 weeks on full stack programming  and testing . I'm skilled in communication and pair programming.I love to challenge myself with learning new skills to keep my brain motivated.
+
+- I have a strong desire to learn code, I love breaking down a project into little piece then used them to build something new out of it,during my coding journey I had this satisfaction as an individual and in a team project. The ability to work in an environment that could build a better future is something I greatly look forward to.
+>>>>>>> b8b6151 (Update)
 
 I have a strong desire to learn code, I love breaking down a project into little piece then used them to build something new out of it,during my coding journey I had this satisfaction as an individual and in a team project. The ability to work in an environment that could build a better future is something I greatly look forward to.
 
@@ -56,5 +63,10 @@ I have a strong desire to learn code, I love breaking down a project into little
 ## Hobbies 
 
 - I started painting from early teenage year , I love water_color painting as much as acrylic, oil, mix media. After my second child I challenged myself to learn calligraphy on canvas which I have combined it with painting .
+<<<<<<< HEAD
+=======
+
+- I have passion for cooking .I cook every day,my grand_mum was my inspiration at first. I was amazed how she managed to pull out the best taste out of ingredients .After I moved to uk Jamie Oliver opened my eyes to new cooking style since then I like to try different spices with new ingredients to create new tastes.
+>>>>>>> b8b6151 (Update)
 
 - I have passion for cooking .I cook every day,my grand_mum was my inspiration at first. I was amazed how she managed to pull out the best taste out of ingredients .After I moved to uk Jamie Oliver opened my eyes to new cooking style since then I like to try different spices with new ingredients to create new tastes.
