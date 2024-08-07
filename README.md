@@ -11,7 +11,7 @@ I have a strong desire to learn code, I love breaking down a project into little
 |         Name              |                     Description                    |               Tech tools            |
 | --------------------------| -------------------------------------------------- | ----------------------------------- |
 |         **Divvy**         | A mobile app to calculate & split group meal cost. User can take a photo of their receipt and will be itemised on Divvy app.Tips,taxes and service changes can add as well.| Javascript, React Native, Node.js,  Expo, Realm, Taggun, CSS.   |  
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Something else worked on** | A webapp to do. | Ruby              |
 
 ## Experience
 
