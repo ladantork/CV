@@ -1,47 +1,49 @@
 ## Ladan Torkzaban _ Junior Full Stack Software Developer
+## Profile
+As a Junior Software Developer trained at Northcoders Academy, I am passionate about using technology to create innovative solutions and build a better future. After five years as a full-time mum, I transitioned into tech to leverage my problem-solving skills and love for continuous learning. I quickly mastered React and JavaScript, enhancing my ability to break down complex projects and collaborate effectively. What sets me apart is my unique blend of resilience, multitasking, and efficiency skills honed through motherhood and applied in tech. I am dedicated to contributing to impactful projects and seek a company that supports my professional growth. My commitment to continuous learning and passion for technology make me an excellent candidate for your team.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-I'm a full stack developer who has trained with Makers Academy developing my engineering skills.
-
-After being a full time mum for few years ,I have decided to refresh my knowledge and memory from what I have studied in university. I joined the Makers academy and achieved an incredible experience in 16 weeks on full stack programming  and testing . I'm skilled in communication and pair programming.I love to challenge myself with learning new skills to keep my brain motivated.
-=======
-- I'm a full stack developer who has trained with Makers Academy developing my engineering skills.
-=======
-- I'm a full stack developer who has trained with Northcoders Academy developing my engineering skills.
->>>>>>> 58a9432 (Updated Makers)
-- After being a full time mum for few years ,I have decided to refresh my knowledge and memory from what I have studied in university. I joined the Makers academy and achieved an incredible experience in 16 weeks on full stack programming  and testing . I'm skilled in communication and pair programming.I love to challenge myself with learning new skills to keep my brain motivated.
-
-- I have a strong desire to learn code, I love breaking down a project into little piece then used them to build something new out of it,during my coding journey I had this satisfaction as an individual and in a team project. The ability to work in an environment that could build a better future is something I greatly look forward to.
->>>>>>> b8b6151 (Update)
-
-I have a strong desire to learn code, I love breaking down a project into little piece then used them to build something new out of it,during my coding journey I had this satisfaction as an individual and in a team project. The ability to work in an environment that could build a better future is something I greatly look forward to.
+## Technical Expertise
+- Back-End: JavaScript, Ruby, Express, Node
+- Front-End: HTML, CSS, React, Angular, Firebase
+- Database: SQL, MongoDB, TablePlus, PostgreSQL
+- Testing: RSpec, Jest, Cypress, Sinatra
+- API Development and Testing Tools: Insomnia, Postman
+- Artificial Intelligence and Machine Learning: AI, TensorFlow
+- Hosting: Netlify
+- Other: Paired-programming, AGILE, SCRUM Methodologies
 
 ## Projects
 
 |         Name              |                     Description                    |               Tech tools            |
 | --------------------------| -------------------------------------------------- | ----------------------------------- |
 |         **Divvy**         | A mobile app to calculate & split group meal cost. User can take a photo of their receipt and will be itemised on Divvy app.Tips,taxes and service changes can add as well.| Javascript, React Native, Node.js,  Expo, Realm, Taggun, CSS.   |  
-| **Something else worked on** | A webapp to do. | Ruby              |
+|       NC News Frontend    |
+|       NC News Backend     |
+|     Tetriplan Frontend    |
+
 
 ## Experience
 
-#### Makers Academy (July 2022 to October 2022)
-- Learnt how to utilise pair programming, Test Driven Development and Object Orientated Design to develop software with high quality code (and ensure it is easy to read and change).
+#### Web Developer Intern
+#### 2 Toucans Marketing Agency (June 2024 - Present)
+- Collaborated with the development team to create websites for clients.
 
-- Programmed in Ruby, JavaScript,Node.js and React but learnt how to translate into any language (can't wait to do this more).
-
-- Experienced using multiple frameworks, use of Restful APIs and integrating with databases like MongoDB, mySQL and Postgres.
-
-- Developed passion for learning new technologies & languages, working as part of an agile team and problem solving with tight deadlines.
-
-- Skill: Ruby, JavaScript, Node, HTML, CSS, SQL, MongoDB, TablePlus, RSpec, Jest, Cypress, Sinatra, Express
+#### Software Engineering Student
+#### Northcoders Academy (March - June 2024)
+- Completed a comprehensive software engineering course at Northcoders Academy, focusing on modern development methodologies.
+- Developed proficiency in pair programming, test-driven development, and object-oriented design to produce high-quality, maintainable code.
+- Expanded tech stack to include HTML, CSS, React, JavaScript, Node.js, Angular.js, and Ruby with the ability to adapt skills to any language.
+- Learned JavaScript and used it in the NC News in my solo Northcoders project
+NC News Frontend
+NC News Backend
+- Self-taught Angular.js for the front end of our team project
+Tetriplan Frontend
+- Executed multiple projects, both individually and in teams, demonstrating proficiency in utilising frameworks, RESTful APIs, AIs, Axios, and database integration in component layout.
+- Collaborated within an agile environment, honing problem-solving skills under tight deadlines.
 
 #### The Bay Tree  (2009 to 2016) 
-- Director Manager 
-- Book keeping
-- cash and orders handle
-- update tills software
+- Managed bookkeeping, cash handling, and order management for The Bay Tree.
+- Utilised software for inventory management and updates.
 
 
 ## Personal Skills
