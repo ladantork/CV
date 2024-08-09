@@ -46,33 +46,30 @@ Tetriplan Frontend
 - Utilised software for inventory management and updates.
 
 
-## Personal Skills
+## Personal Strengths
 
 #### Quick Learner
-- I am good at understanding a concept and use my knowledge to get a project started then build upon that .For example learning Ruby and use it in Bank challenge in my Makers time.Now that I am developing and maintaining software, my enthusiasm is boundless. I am eager to learn as much as possible   and continue improving as a developer. I am excited to work on new challenges, gain new knowledge and use my existing skills to enhance my future projects. 
+- I am good at understanding a concept and using my knowledge to get a project started and then build upon that.
 
 #### Adaptable and control
-- Having coded prior to Makers Academy I was excited to challenge my skills and be open to learning brand new technologies. Few weeks into the course our cohort introduced to JavaScript as well as Ruby,It was a great insight to OOP principles and I was quickly able to adapt and echo my skills onto different projects and technology.
-
+- Having coded before Northcoders Academy, I was excited to challenge my skills and be open to learning brand-new technologies. A few weeks into the course, our cohort was introduced to React as well as JavaScript. It was a great insight into OOP principles. I’ve quickly been able to adapt and echo my knowledge to different projects and technology.
+- 
 #### Team-Player
-- I genuinely enjoy working with others, learning and teaching at the same time  are always great motivators for creating high-quality  projects. The Makers course led us to work on individual and joint projects, and I was comfortable with either arrangement. One of my strengths is ensuring that everyone has the opportunity to put forward their ideas so that we identify the best solution most effectively.
+-  genuinely enjoy working with others and always finding my place in a team. The Northcoders course led us to work on individual and joint projects, and I was comfortable with either arrangement. One of my strengths is ensuring that everyone has the opportunity to put forward their ideas so that we identify the best solution most effectively.
 
 #### detail-oriented
-- I have developed an extremely keen eye for the fine details. This comes through in my coding, from seeing how the whole code fits together to finding that one tiny bug.While we had peer group every morning during Makers I used to help my group mate to find those little bugs which stopped their program function well.
+-  I have developed an extremely keen eye for fine details. This comes through in my coding, especially when we had to pair up to find that one tiny bug by seeing how the entire code fit together. I have been able to help my group mate find those little bugs which stopped their program from functioning well.
 
 ## Education
 
-#### UWS Glasgow (2012 to 2018)
-- BSc Computer Networking
-- Key modules - Object Oriented Programming, Web server side programming, Mobile development
+#### UWS Glasgow 
+ #### BSc Network Communication (2012 to 2018)
+- Key modules: Object Oriented Programming, Web server-side programming, Mobile user development
 
-## Hobbies 
+## Hobbies & Interests
 
-- I started painting from early teenage year , I love water_color painting as much as acrylic, oil, mix media. After my second child I challenged myself to learn calligraphy on canvas which I have combined it with painting .
-<<<<<<< HEAD
-=======
-
-- I have passion for cooking .I cook every day,my grand_mum was my inspiration at first. I was amazed how she managed to pull out the best taste out of ingredients .After I moved to uk Jamie Oliver opened my eyes to new cooking style since then I like to try different spices with new ingredients to create new tastes.
->>>>>>> b8b6151 (Update)
-
-- I have passion for cooking .I cook every day,my grand_mum was my inspiration at first. I was amazed how she managed to pull out the best taste out of ingredients .After I moved to uk Jamie Oliver opened my eyes to new cooking style since then I like to try different spices with new ingredients to create new tastes.
+- Painting
+- Creating my own personal projects
+- Attending coding events
+- Member of Codecademy
+- Travelling and socialising
