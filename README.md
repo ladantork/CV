@@ -29,7 +29,7 @@ As a Junior Software Developer trained at Northcoders Academy, I am passionate a
 - Collaborated with the development team to create websites for clients.
   
 
-### Software Engineering Student
+### Trainee Software Engineering 
 #### Northcoders Academy (March - June 2024)
 - Completed a comprehensive software engineering course at Northcoders Academy, focusing on modern development methodologies.
 - Developed proficiency in pair programming, test-driven development, and object-oriented design to produce high-quality, maintainable code.
