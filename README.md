@@ -25,7 +25,7 @@ As a Junior Software Developer trained at Northcoders Academy, I am passionate a
 ## Experience
 
 ### Web Developer Intern
-#### 2 Toucans Marketing Agency (June 2024 - Present)
+#### 2 Toucans Marketing Agency (June 2024 - Sep 2024)
 - Collaborated with the development team to create websites for clients.
   
 
