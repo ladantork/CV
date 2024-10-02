@@ -19,7 +19,7 @@ As a Junior Software Developer trained at Northcoders Academy, I am passionate a
 |         **Divvy**         | A mobile app to calculate & split group meal cost. User can take a photo of their receipt and will be itemised on Divvy app.Tips,taxes and service changes can add as well.| Javascript, React Native, Node.js,  Expo, Realm, Taggun, CSS.   |  
 |       NC News Frontend    |
 |       NC News Backend     |
-|     Tetriplan Frontend    |
+|     Tetriplan Frontend    |Tetriplan is a productivity app focused on time-blocking, making use of AI to streamline adding and categorising tasks.| Node.js, Angular CLI |
 
 
 ## Experience
